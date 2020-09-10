@@ -1,1 +1,1 @@
-![](/assets/background.jpg)
+![](https://raw.githubusercontent.com/karpawich/karpawich/master/assets/background.jpg)
